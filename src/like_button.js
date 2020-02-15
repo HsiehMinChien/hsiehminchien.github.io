@@ -1,4 +1,5 @@
 'use strict';
+import Test from './test';
 
 const e = React.createElement;
 
